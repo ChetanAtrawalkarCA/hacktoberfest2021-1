@@ -197,3 +197,4 @@
 | Harshit Gupta        | [@HarshitGupta150](https://github.com/HarshitGupta150)        |         0        |
 | Manju Thakur         | [@mthakur7](https://github.com/mthakur7)                      |         1        |
 | Atharva patil        | [@Attupatil](https://github.com/Attupatil)                    |         1        |
+| Suresh Mishra        | [@chipinvision](https://github.com/chipinvision)
